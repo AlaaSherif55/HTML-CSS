@@ -10,10 +10,16 @@
   background-color: green;
 }
 .div9c {
+  font-family: Arial, Helvetica, sans-serif;
   width: 400px;
   height: 100px;
   border: 1px solid rgba(190, 191, 191, 255);
   padding-left: 15px;
+ margin-top: 10px;
+
+button
+{
+  font-weight: bold;
 }
 .div9d {
   padding: 10px 15px;
