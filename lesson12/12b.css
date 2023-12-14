@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.container{
+  display: flex;
+  height: 20px;
+  flex-direction: row;
+  
+}
+
+#div1 , #div3
+{
+    background-color: antiquewhite;
+}
+
+#div1 {
+  width: 50px;
+}
+#div3
+{
+    width: 75px; 
+}
+#div2 {
+  background-color: coral;
+  flex: 1;
+ 
+}
